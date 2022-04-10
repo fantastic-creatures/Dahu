@@ -3,13 +3,7 @@ title: Dahu - Alternative To Targeted Advertising
 layout: default
 ---
 
-# In a Nutshell
-
-Dahu provides an alternative to targeted advertising to companies that would like to participate in the online ads infrastructure without compromising the privacy of users.
-
-# In Detail
-
-## The Online Advertising Ecosystem
+# The Online Advertising Ecosystem
 
 There are three actors involved in the online advertising ecosystem:
 1. Advertisers who create ads and bid for space at the publishers' websites,
