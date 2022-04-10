@@ -26,7 +26,7 @@ Dahu is exploring the painpoints and identifying opportunities to propose an alt
 
 # About Us 
 
-(Blagovesta Kostova)[https://betty.github.io] and (Valérian Rousset)[https://www.linkedin.com/in/valerianrousset/]
+[Blagovesta Kostova](https://betty.github.io) and [Valérian Rousset](https://www.linkedin.com/in/valerianrousset/)
 
 # Contact
 
