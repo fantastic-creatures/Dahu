@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 title: Dahu
-description: Dahu - Alternative to Targeted Advertising
+description: Alternative to Targeted Advertising
 show_downloads: false
+github:
+  is_project_page: false
