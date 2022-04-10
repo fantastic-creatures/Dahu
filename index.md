@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Alternative to Targeted Advertising
 
-You can use the [editor on GitHub](https://github.com/fantastic-creatures/Dahu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dahu provides an alternative to targeted advertising to companies that would like to participate in the online ads infrastructure without compromising the privacy of users.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Context
 
-### Markdown
+There are three actors involved in the online advertising ecosystem:
+1. Advertisers who create ads and bid for space at the publishers' websites,
+2. Publishers who provide a website to show these ads,
+3. Users who look at these ads and potentially click on them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The match between advertisers and publishers is usually done on platforms called ads exchanges. Publishers describe what kind of users and advertising space they have, while advertisers bid to place their ads on the websites. This programmatic way of targeting users for advertising purposes is known as targeted, behavioral, or surveillance advertising. Users are tracked across the board in order to match the preferences of the advertiser with the "right" publisher according to the audience that visits the websites. For example, reading an article on a local news website might involve this website tracking many user-specific behavioral markers while on the website such as types of articles the user opens, the amount of time spent reading and/or scrolling, number of articles read per session.
 
-```markdown
-Syntax highlighted code block
+### Problem
+This type of tracking is at the heart of the problem of many privacy infringements as of today. There is a pushback to ban surveillance advertising initiatives (e.g., [1](https://www.bansurveillanceadvertising.com), [2](https://consumerfed.org/surveillance-advertising-factsheets/), [3](https://qz.com/1997873/apples-idfa-privacy-update-threatens-to-upend-the-ad-industry/)). The problem is that there is still no way to do online advertising without taking part of the surveillance infrastructure. There are only single efforts that are not available to the general public of marketers and advertisers.
 
-# Header 1
-## Header 2
-### Header 3
+### Solution
 
-- Bulleted
-- List
+Dahu is exploring the painpoints and identifying opportunities to propose an alternative to targetted advertising. We want to provide means for each of these actors to respect and ensure privacy. Dahu provides an automated way for advertisers and publishers to advertise while removing behavioral information that could violate privacy regulations and compromise users.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# About Us 
 
-[Link](url) and ![Image](src)
-```
+(Blagovesta Kostova)[] 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Contact
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fantastic-creatures/Dahu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
