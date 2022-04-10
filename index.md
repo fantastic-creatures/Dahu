@@ -1,3 +1,8 @@
+---
+title: Dahu - Alternative To Targeted Advertising 
+layout: default
+---
+
 # Alternative to Targeted Advertising
 
 Dahu provides an alternative to targeted advertising to companies that would like to participate in the online ads infrastructure without compromising the privacy of users.
@@ -16,13 +21,14 @@ This type of tracking is at the heart of the problem of many privacy infringemen
 
 ### Solution
 
-Dahu is exploring the painpoints and identifying opportunities to propose an alternative to targetted advertising. We want to provide means for each of these actors to respect and ensure privacy. Dahu provides an automated way for advertisers and publishers to advertise while removing behavioral information that could violate privacy regulations and compromise users.
+Dahu is exploring the painpoints and identifying opportunities to propose an alternative to targeted advertising. We want to provide means for each of these actors to respect and ensure privacy. Dahu provides an automated way for advertisers and publishers to advertise while removing behavioral information that could violate privacy regulations and compromise users.
 
 
 # About Us 
 
-(Blagovesta Kostova)[] 
+(Blagovesta Kostova)[https://betty.github.io] and (Valérian Rousset)[https://www.linkedin.com/in/valerianrousset/]
 
 # Contact
 
+<a href="mailto:contact.dahu@protonmail.com">contact.dahu@protonmail.com</a>
 
